@@ -89,13 +89,13 @@ Hey there! I'm Kalyan, a software development professional with hands-on experie
 ## GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyan-ontipuli&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyanontipuli&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyan-ontipuli&show_icons=true&locale=en" alt="kalyan-ontipuli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanontipuli&show_icons=true&locale=en" alt="kalyan-ontipuli" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan-ontipuli&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyanontipuli&" alt="GitHub Streak" />
 </p>
 
 ---
