@@ -13,8 +13,11 @@ I enjoy building **production-ready systems**, improving performance, and solvin
 
 ---
 
-
 ## 🧠 Technical Skills
+
+<table>
+<tr>
+<td width="65%">
 
 ### **Backend & Languages**
 - Python, FastAPI, Flask  
@@ -28,6 +31,16 @@ I enjoy building **production-ready systems**, improving performance, and solvin
 - Docker, CI/CD  
 - AWS (EC2, S3)  
 - Git/GitHub, Nginx, Postman  
+
+</td>
+
+<td width="35%" align="right">
+
+<img src="https://camo.githubusercontent.com/a8d3da3528ef9b39401e1d24c0965e543580bfdc682c7b5c46fcbd8c582be8e3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
