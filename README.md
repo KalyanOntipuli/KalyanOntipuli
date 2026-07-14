@@ -44,25 +44,6 @@ I enjoy building **production-ready systems**, improving performance, and solvin
 
 ---
 
-## 🛠️ Key Projects
-
-### **Employee Document Suite (EDS)**
-**Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, HTML, CSS, CI/CD  
-
-- Automated generation of **Offer, Experience, Relieving & Hike Letters**
-- Admin approvals, employee lifecycle tracking, and audit workflows
-- Secure company registration and HR document management
-
----
-
-### **Resume Builder Application**
-**Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, HTML, CSS  
-
-- Secure authentication and role-based access
-- Dynamic JSON-based resume generation
-- Integrated payment system for premium access
-
----
 
 ## 📜 Certifications
 
