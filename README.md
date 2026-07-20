@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kalyan Ontipuli</h1>
 <h3 align="center">
-Backend Developer | FastAPI | Python | Scalable APIs & Systems
+Software Engineer | FastAPI | Django| Python | PostgreSQL| Docker| Kubernetes| AWS  Scalable APIs & Systems
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Backend Developer with 2+ years of professional experience** in designing, building, and optimizing **scalable server-side applications**. I specialize in **FastAPI, RESTful API development, SQL/NoSQL databases, and microservices architecture**.
+I'm a **Software Engineer with 2+ years of professional experience** in designing, building, and optimizing **scalable server-side applications**. I specialize in **FastAPI, RESTful API development, SQL/NoSQL databases, and microservices architecture**.
 
 I enjoy building **production-ready systems**, improving performance, and solving real-world backend challenges in **agile startup environments**.
 
